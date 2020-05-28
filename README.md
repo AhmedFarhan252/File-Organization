@@ -50,3 +50,9 @@ Requires one argument: _(file_path)_. This is the path to the zip file being exa
 **Output:**
 
 ![read_zip output](./imgs/read_zip.png)
+
+---
+
+## References
+
+Idea from [Automating the boring stuff with Python](https://automatetheboringstuff.com/2e/chapter10/) by AlSweigart.
